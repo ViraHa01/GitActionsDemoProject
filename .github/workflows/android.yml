@@ -30,4 +30,3 @@ jobs:
       with:
           name: app
           path: app/build/outputs/apk/debug/app-debug.apk
-GitActionsDemoProject/android.yml at main · ViraHa01/GitActionsDemoProject
